@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Frontend developer (React.js, React Native, Typescript, MobX)</h3>
 
