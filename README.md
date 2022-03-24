@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js (SSR, SSG rendering), Unit Testing**
 
-- 👨‍💻 All of my projects are available at [yurkin.me](https://yurkin.me/)
+- 👨‍💻 My portfolio [yurkin.me](https://yurkin.me/)
 
 - 📫 How to reach me **yurkin.ivan5456@gmail.com**
 
