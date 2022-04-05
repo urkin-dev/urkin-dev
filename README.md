@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Frontend developer (React.js, React Native, Typescript, MobX)</h3>
 
-- 🔭 I’m currently working on a [mobile application](https://play.google.com/store/apps/details?id=ru.povoenke)
+- 🔭 I’m working on a [mobile application](https://play.google.com/store/apps/details?id=ru.povoenke) as react native developer
 
 - 🌱 I’m currently learning **Next.js (SSR, SSG rendering), Unit Testing**
 
