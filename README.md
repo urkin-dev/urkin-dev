@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Frontend developer (React.js, React Native, Typescript, MobX)</h3>
 
-- 🔭 React Native developer at [Take A Place](https://play.google.com/store/apps/details?id=com.takeaplace.app) and [poVoenke](https://play.google.com/store/apps/details?id=ru.povoenke)
-
-- 👨‍💻 My portfolio [yurkin.me](https://yurkin.me/)
+- 🔭 Part-time react native developer at [Take A Place](https://play.google.com/store/apps/details?id=com.takeaplace.app) and [poVoenke](https://play.google.com/store/apps/details?id=ru.povoenke)
 
 - 📫 How to reach me **yurkin.ivan5456@gmail.com**
 
