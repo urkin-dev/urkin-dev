@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Frontend developer (React.js, React Native, Typescript, MobX)</h3>
-
-- 🔭 React native developer at Porttie and [Take A Place](https://play.google.com/store/apps/details?id=com.takeaplace.app)
+<h3 align="center">Frontend engineer (React.js, React Native, Typescript, MobX, Redux)</h3>
 
 - 📫 How to reach me **yurkin.ivan5456@gmail.com**
 
